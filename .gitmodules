@@ -1,0 +1,3 @@
+[submodule "parent-demo-project"]
+	path = parent-demo-project
+	url = https://github.com/santhoshvijayan/parent-demo-project.git
